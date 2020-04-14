@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_LINQ", "02_LINQ\02_LINQ.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_LINQ_OBJETO", "03_LINQ_OBJETO\03_LINQ_OBJETO.csproj", "{12654F13-DA77-4699-B212-B95B9AC922A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_LINQ_JOIN", "04_LINQ_JOIN\04_LINQ_JOIN.csproj", "{7A039645-8830-446A-92B0-4FA3A3209B5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{12654F13-DA77-4699-B212-B95B9AC922A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12654F13-DA77-4699-B212-B95B9AC922A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12654F13-DA77-4699-B212-B95B9AC922A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A039645-8830-446A-92B0-4FA3A3209B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A039645-8830-446A-92B0-4FA3A3209B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A039645-8830-446A-92B0-4FA3A3209B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A039645-8830-446A-92B0-4FA3A3209B5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
